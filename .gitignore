@@ -1,0 +1,5 @@
+# Ignore simulation output
+*.vcd
+*.out
+*.o
+*.vvp
